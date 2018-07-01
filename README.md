@@ -9,7 +9,7 @@ Ease of creation & publication encouraged the idea that if some of my notes coul
 
 I could have slapped some Markdown down a `/blog` somewhere and served it, but stumbling upon some stuff called [_Jekyll Now_][jekyllnow.com], I decided to give it a go. From [what I've read][Jekyll Home], Jekyll is a static template renderer that accepts, among other things... Markdown. Also, that's working pretty well with [GitHub's free hosting solution][gh-pages]. The _Jekyll Now_ project aims to provide a preset Jekyll blog in virtually no time.
 
-With this introduction, I had enough material to give instant blogging a try, and a subject for [a first article][article 0].
+With this introduction, I had enough material to give instant blogging a try, and a subject for a first article.
 
 
 [wikipedia]: http://wikipedia.com/wiki/Markdown
