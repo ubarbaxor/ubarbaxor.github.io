@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ubarbaxor.github.io
+Token: bc0f3e9e281e633e4500b8cb3dd370ba35cc67187e520900157b3f7a912b0b25
